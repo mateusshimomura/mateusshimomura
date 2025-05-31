@@ -9,8 +9,8 @@
 ### 👨‍💻 Sobre mim
 
 - 🌱 Estudando: **Análise e Desenvolvimento de Sistemas**
-- 💬 Pergunte-me sobre: **JavaScript, Angular, Vue.js, PHP, Html, etc.** <!-- - 📫 Contato: **[seu email]**
-- ⚡ Curiosidade: **[algo divertido ou único sobre você]**  -->
+- 💬 Pergunte-me sobre: **JavaScript, Angular, Vue.js, PHP, Html, etc.** <!-- - 📫 Contato: **[seu email]** -->
+<!-- - ⚡ Curiosidade: **[algo divertido ou único sobre você]** -->
 
 ---
 
