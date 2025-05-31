@@ -20,8 +20,8 @@
 ### 📈 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateushimomura&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?mateushimomura=seunome&layout=compact&theme=default" height="150" />
 </p>
 -->
 ---
