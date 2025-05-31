@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou [Seu Nome]</h1>
+<h1 align="center">Olá! 👋 Eu sou Mateus</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Fullstack;Amante+de+tecnologia;Sempre+aprendendo!" />
@@ -8,10 +8,9 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando com: **[tecnologias ou projetos atuais]**
-- 🌱 Estudando: **[tecnologias que está aprendendo]**
-- 💬 Pergunte-me sobre: **JavaScript, React, Node.js, etc.**
-- 📫 Contato: **[seu email]**
+- 🌱 Estudando: **Análise e Desenvolvimento de Sistemas**
+- 💬 Pergunte-me sobre: **JavaScript, Angular, Vue.js, PHP, Html, etc.**
+<!-- - 📫 Contato: **[seu email]** -->
 - ⚡ Curiosidade: **[algo divertido ou único sobre você]**
 
 ---
