@@ -1,11 +1,3 @@
-  <h1 align="center">Olá! 👋 Eu sou Mateus</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Fullstack;Amante+de+tecnologia;Sempre+aprendendo!" />
-</p>
-
----
-
 ### 👨‍💻 Sobre mim
 
 - 🌱 Estudando: **Análise e Desenvolvimento de Sistemas**
