@@ -9,8 +9,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🌱 Estudando: **Análise e Desenvolvimento de Sistemas**
-- 💬 Pergunte-me sobre: **JavaScript, Angular, Vue.js, PHP, Html, etc.**
-<!-- - 📫 Contato: **[seu email]** -->
+- 💬 Pergunte-me sobre: **JavaScript, Angular, Vue.js, PHP, Html, etc.** <!-- - 📫 Contato: **[seu email]** -->
 - ⚡ Curiosidade: **[algo divertido ou único sobre você]**
 
 ---
@@ -18,7 +17,7 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML](https://img.shields.io/badge/-Html5-black?style=flat-square&logo=html5)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
