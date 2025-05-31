@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Mateus</h1>
+  <h1 align="center">Olá! 👋 Eu sou Mateus</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Fullstack;Amante+de+tecnologia;Sempre+aprendendo!" />
@@ -20,6 +20,7 @@
 ![HTML](https://img.shields.io/badge/-Html5-black?style=flat-square&logo=html5)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vuedotjs)
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
 
 ---
