@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vuedotjs)
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
-
+<!--
 ---
 
 ### 📈 Estatísticas
@@ -31,7 +31,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=tokyonight" />
 </p>
-
+-->
 ---
 
 ### 🌍 Onde me encontrar
