@@ -37,4 +37,6 @@
 ### 🌍 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-shimomura/)]([https://www.linkedin.com/in/seunome/](https://www.linkedin.com/in/mateus-shimomura/))
+<!--
 [![Portfolio](https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=github&link=https://seuportifolio.com)](https://seuportifolio.com)
+-->
