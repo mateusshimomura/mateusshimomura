@@ -14,6 +14,12 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vuedotjs)
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+
 <!--
 ---
 
@@ -29,6 +35,7 @@
 ### 🌍 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-shimomura/)]([https://www.linkedin.com/in/seunome/](https://www.linkedin.com/in/mateus-shimomura/))
+
 <!--
 [![Portfolio](https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=github&link=https://seuportifolio.com)](https://seuportifolio.com)
 -->
